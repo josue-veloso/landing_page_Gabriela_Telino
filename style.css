@@ -28,7 +28,7 @@ body {
     padding: 0 20px;
 }
 
-/* Header */
+
 header {
     background: var(--white);
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
@@ -82,7 +82,7 @@ nav .container {
     transition: 0.3s;
 }
 
-/* Hero Section */
+
 .hero {
     position: relative;
     background: var(--gradient-1);
@@ -216,7 +216,7 @@ nav .container {
     box-shadow: 0 5px 20px rgba(0,0,0,0.2);
 }
 
-/* Sobre Section */
+
 .sobre {
     padding: 100px 0;
     background: var(--white);
@@ -306,7 +306,7 @@ nav .container {
     color: #555;
 }
 
-/* Atuação Section */
+
 .atuacao {
     padding: 100px 0;
     background: var(--light-bg);
@@ -425,7 +425,7 @@ nav .container {
     font-size: 1.05rem;
 }
 
-/* FAQ Section */
+
 .faq {
     padding: 80px 0;
     background: var(--white);
@@ -505,7 +505,7 @@ nav .container {
     line-height: 1.8;
 }
 
-/* Contato Section */
+
 .contato {
     padding: 80px 0;
     background: var(--light-bg);
@@ -623,7 +623,7 @@ nav .container {
 
 
 
-/* Footer */
+
 footer {
     background: var(--secondary-color);
     color: var(--white);
@@ -631,7 +631,7 @@ footer {
     padding: 2rem 0;
 }
 
-/* Responsive */
+
 @media (max-width: 968px) {
     .hero-content {
         grid-template-columns: 1fr;
